@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Valtemir Domingos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valt-dev&color=ff69b4&style=flat" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Valt-Dev&color=ff69b4&style=flat" alt="Profile views" /> </p>
 
 <!-- STATS -->
 <div align="center">
-  <a href="https://github.com/valt-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=valt-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valt-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Valt-Dev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Valt-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valt-Dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
   
@@ -32,7 +32,7 @@
 </div>
 <div align="center">
   
-  ![Snake animation](https://github.com/valt-dev/valt-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Valt-Dev/Valt-Dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
