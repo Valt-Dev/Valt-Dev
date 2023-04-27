@@ -32,7 +32,7 @@
 </div>
 <div align="center">
   
-  ![Snake animation](https://github.com/Valt-Dev/Valt-Dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Valt-Dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
